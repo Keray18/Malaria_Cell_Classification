@@ -82,10 +82,7 @@ scipy
 seaborn
 Send2Trash
 six
-tensorboard
-tensorboard-plugin-wit
 tensorflow
-tensorflow-estimator
 termcolor
 terminado
 testpath
