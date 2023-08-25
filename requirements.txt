@@ -14,6 +14,7 @@ defusedxml
 entrypoints
 Flask
 Flask-Cors
+gunicorn
 gast
 geojson
 google-auth
